@@ -18,7 +18,7 @@ class Demo {
 public class Demo1 {
 
 	public static void main(String[] args) {
-		
+		//edited from github.
 		System.out.println();
 		Demo.show();
 
